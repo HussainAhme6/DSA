@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
+        //to check if it changes on github
         // Take input the size of an array
         Scanner sc = new Scanner(System.in);  // Create a Scanner object
         System.out.println("Enter the size of an Array");
